@@ -31,5 +31,6 @@ Other reasons include: <br>
 - Promotes healthy eating
 - Involves the use of APIs, databases, front-end, back-end and user authentication, which is perfect for collaboration 
 - Aligns with the goals of this web development course
+Personal Reflection: I worked full-time for a semester and have been working part-time since then. A lot of my time went in meal prepping, which prevented me from working on my side projects or do coursework. For this reason, a web application catered to personalizing meal plan would really help in saving time and food-relation expenses (take outs) while granting individuals more time to focus on their hobbies or side projects they would like to purse or work on. <br>
 
 
